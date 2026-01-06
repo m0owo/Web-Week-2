@@ -1,1 +1,1 @@
-print("This file has conflict")
+print("This file has no conflict")
