@@ -1,1 +1,1 @@
-print("This is also conflict")
+print("This is conflict")
