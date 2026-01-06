@@ -1,1 +1,1 @@
-print("This is also conflict B")
+print("This is also conflict BiGGA")
