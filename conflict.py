@@ -1,1 +1,1 @@
-print("Conflict from branch B")
+print("This is conflict")
